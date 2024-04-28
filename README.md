@@ -1,16 +1,14 @@
-# tastweather
+# weather app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application .
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Good luck 🙂
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+# home
+<img src="https://user-images.githubusercontent.com/69330783/204656586-3a0f1f6a-59bc-4701-9939-e9e9fd9ca178.png" width="300" height="500">
 samples, guidance on mobile development, and a full API reference.
