@@ -9,6 +9,7 @@ extension Responsive on num {
   static double webWidth = 1920.0;
   static double webHeight = 1074.0;
   static double maxMobileWidth = 500.0;
+  static double maxMobdvweileWidth = 500.0;
 
   static void init(BuildContext context) {
     screenWidth = MediaQuery
